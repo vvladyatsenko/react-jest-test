@@ -1,0 +1,18 @@
+.user-profile {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 300px;
+  margin: auto;
+}
+
+.loader,
+.error {
+  text-align: center;
+}
+
+a {
+  color: #2a9d8f;
+}
